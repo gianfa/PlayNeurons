@@ -6,3 +6,6 @@ You can also edit the sound.
 
 In my free time I will update it with metter features. If you want to collaborate join!
 Enjoy!
+
+## How to use
+Just run the main.m and have fun
